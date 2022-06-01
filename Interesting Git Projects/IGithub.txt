@@ -1,0 +1,19 @@
+https://github.com/OpenDiablo2/OpenDiablo2.git 
+The project describe itself to be an ARPG game engine made to support Diablo 2, written in GO and is cross platform. I chose this as a topic as I found it to be pretty cool that fans of
+Diablo2 would make an engine for it to be played on.
+
+https://github.com/microsoft/AirSim.git
+This project is simulation for flying around drones and vehicles built on Unreal Engine, they also have an experimental unity release. I found this topic interesting since this was made
+for the sake of being a platform in AI research, a field of study that I want to get into for my future.
+
+https://github.com/Unity-Technologies/ml-agents.git
+A Unity project built for the purpose of machine learning. I liked this as a topic of research as this was made to help people learn about how things in a virtual world would interact
+with other things.
+
+https://github.com/4ian/GDevelop.git
+An open source Game development software. I liked this as a reference for how an engine might be built upon and how it would create objects in a 2d space to introduce basic
+level game development.
+
+https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
+A file responsible for telling your gitrepo to ignore certain elements from being entered into the repository. After studying the file a bit I found that it tells the Git to ignore many
+different kinds of files, from what I can understand of the few in the list, things like windows installers, some Nvidia files, and packets.
